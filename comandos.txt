@@ -1,0 +1,5 @@
+git add . (Prepara as mudanças)
+
+git commit -m "aula.01" (Cria a versão com mensagem)
+
+git push origin main (Envia para o GitHub)
