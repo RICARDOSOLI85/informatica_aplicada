@@ -1,9 +1,0 @@
-# Arquivos de manifesto de pacotes (geralmente mantidos, mas dependências locais não)
-.CUPTH/
-.DS_Store
-*.jl.cov
-*.jl.mem
-/manifest.toml
-
-# Se usar ambientes específicos
-.ipynb_checkpoints/
